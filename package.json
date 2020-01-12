@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-varundevpro",
-  "version": "1.00",
+  "version": "1.0.0",
   "description": "My Eslint and Prettier Setup",
   "main": "./lib/index.js",
   "files": [
